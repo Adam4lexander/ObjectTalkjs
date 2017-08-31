@@ -1,0 +1,19 @@
+{
+  "name": "object-talk",
+  "version": "1.0.0",
+  "description": "Create javascript objects with multiple prototypes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adam4lexander/ObjectTalkjs.git"
+  },
+  "author": "Adam Alexander",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/Adam4lexander/ObjectTalkjs/issues"
+  },
+  "homepage": "https://github.com/Adam4lexander/ObjectTalkjs#readme"
+}
