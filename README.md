@@ -52,10 +52,10 @@ prot = {
 }
 otObj.prototypes.add(prot);
 otObj.callFunc(); // 'test' property is added to otObj and not prot
-prot.test;		  // will be undefined
+prot.test;	// will be undefined
 ```
 
-Prototype list is scanned from first index to last, if there are multiple prototypes with the same property then the prototype with the earliest index with shadow the others.
+The prototypes list is scanned from first index to last, if there are multiple prototypes with the same property then the prototype with the earliest index with shadow the others.
 ```
 prot1 = {name: 'foo'};
 prot2 = {name: 'bar'};
