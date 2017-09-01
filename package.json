@@ -1,6 +1,6 @@
 {
   "name": "object-talk",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Create javascript objects with multiple prototypes.",
   "keywords": ["prototype", "delegation", "inheritance", "multiple", "experiment", "component", "entity", "games", "ObjectTalkjs"],
   "main": "index.js",
