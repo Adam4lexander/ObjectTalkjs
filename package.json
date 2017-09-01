@@ -2,6 +2,7 @@
   "name": "object-talk",
   "version": "1.0.0",
   "description": "Create javascript objects with multiple prototypes.",
+  "keywords": ["prototype", "delegation", "inheritance", "multiple", "experiment", "component", "entity", "games", "ObjectTalkjs"],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
