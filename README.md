@@ -1,5 +1,5 @@
 # ObjectTalkjs
-Create javascript objects with multiple prototypes and dynamically change their prototypes as needed. ObjectTalkjs is inpsired by a language called ObjectTalk: a pure object oriented language with a very flexible prototypal inheritance system. It seemed like this could be a useful paradigm for solving certain kinds of problems, such as modelling entity component systems for game dev, so I've made this package to explore its uses in javascript.
+Create javascript objects with multiple prototypes and dynamically change their prototypes as needed. ObjectTalkjs is inspired by a language called ObjectTalk: a pure object oriented language with a very flexible prototypal inheritance system. It seemed like this could be a useful paradigm for solving certain kinds of problems, such as modelling entity component systems for game dev, so I've made this package to explore its uses in javascript.
 
 Other multiple inheritance packages may let you extend multiple objects at instantiation. This package lets you change an objects prototypes at any point in its lifetime. I've provided an extended example below in a gamedev context for when this might be useful.
 
